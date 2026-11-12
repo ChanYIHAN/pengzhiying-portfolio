@@ -1,0 +1,133 @@
+[
+  {
+    "id": "brand",
+    "name": "品牌整合营销",
+    "en": "INTEGRATED MARKETING",
+    "color": "79,156,245",
+    "intro": "从策略洞察到创意落地，让品牌价值被看见。",
+    "items": [
+      {
+        "id": "brand-pending",
+        "title": "品牌整合营销案例",
+        "pending": true
+      }
+    ]
+  },
+  {
+    "id": "campus",
+    "name": "高校赛事运维",
+    "en": "CAMPUS & ESPORTS",
+    "color": "167,139,250",
+    "intro": "连接品牌与 Z 世代，让热爱在校园发生。",
+    "items": [
+      {
+        "id": "zotac",
+        "title": "索泰「无索不AI」桌搭大赛",
+        "tag": "AIGC × 桌搭文化",
+        "pc": "https://www1.pconline.com.cn/zt/gz20251127/activity/zotac/pc/index.html#/",
+        "wap": "https://www1.pconline.com.cn/zt/gz20251127/activity/zotac/wap/index.html#"
+      },
+      {
+        "id": "huntkey",
+        "title": "航嘉「满电青年」AI设计大赛",
+        "tag": "AI 创作赛事",
+        "pc": "https://www1.pconline.com.cn/zt/gz20260420/activity/huntkey/pc/index.html#/",
+        "wap": "https://www1.pconline.com.cn/zt/gz20260420/activity/huntkey/wap/index.html#/"
+      },
+      {
+        "id": "kioxia",
+        "title": "铠侠「芯动记忆」AI存储挑战赛",
+        "tag": "创意共创",
+        "pc": "https://www1.pconline.com.cn/test/gz20260228/activity/kaixia/pc/?v=534815#/",
+        "wap": "https://www1.pconline.com.cn/test/gz20260228/activity/kaixia/wap/?v=534815#/"
+      },
+      {
+        "id": "dareu",
+        "title": "达尔优无畏契约电竞赛",
+        "tag": "高校电竞",
+        "pc": "https://www1.pconline.com.cn/gz/202504/dareu/pc/index.html#/",
+        "wap": "https://www1.pconline.com.cn/gz/202504/dareu/wap/index.html#/"
+      },
+      {
+        "id": "thunderobot",
+        "title": "雷神无畏契约巡回赛",
+        "tag": "赛事巡游",
+        "image": "assets/thunderobot.png"
+      },
+      {
+        "id": "school",
+        "title": "开学季开机大吉企划",
+        "tag": "校园营销",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11096/"
+      }
+    ]
+  },
+  {
+    "id": "exhibition",
+    "name": "大型展会统筹",
+    "en": "EXHIBITIONS & EXPERIENCES",
+    "color": "244,114,182",
+    "intro": "科技、设计与热爱，在现场相遇。",
+    "items": [
+      {
+        "id": "cj2025",
+        "title": "2025 ChinaJoy「玩转每一种热爱」",
+        "tag": "ChinaJoy",
+        "url": "https://www.pconline.com.cn/qs/pc/online/10676/"
+      },
+      {
+        "id": "gdw2025",
+        "title": "2025 广州设计周「当科技遇见设计」",
+        "tag": "广州设计周",
+        "pc": "https://www.pchouse.com.cn/zhuanti/gdw/",
+        "wap": "https://m.pchouse.com.cn/x/zhuanti/gdw/"
+      },
+      {
+        "id": "bw2025",
+        "title": "2025 BiliBiliWorld「次元新航线」",
+        "tag": "BiliBiliWorld",
+        "url": "",
+        "sourceUrl": "https://www.pconline.com.cn/synthetical/pc/subject/5864/",
+        "linkPending": true,
+        "cover": "covers/bw2025.svg"
+      },
+      {
+        "id": "cj2026",
+        "title": "2026 ChinaJoy「智游新生 潮启今夏」",
+        "tag": "ChinaJoy",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11076/"
+      },
+      {
+        "id": "wrc2026",
+        "title": "2026 WRC 世界机器人大会",
+        "tag": "机器人 × 科技",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11097/"
+      },
+      {
+        "id": "warc2026",
+        "title": "2026 WARC 世界人工智能大会",
+        "tag": "人工智能",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11056/"
+      },
+      {
+        "id": "gdw2026",
+        "title": "2026 广州设计周「万物有感 生活有应」",
+        "pending": true
+      }
+    ]
+  },
+  {
+    "id": "social",
+    "name": "新媒体陪跑",
+    "en": "SOCIAL MEDIA GROWTH",
+    "color": "52,211,153",
+    "intro": "内容策略、达人种草与全域传播的协同增长。",
+    "items": [
+      {
+        "id": "social-pending",
+        "title": "新媒体陪跑案例",
+        "pending": true
+      }
+    ]
+  }
+]

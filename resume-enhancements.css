@@ -5,3 +5,7 @@
 
 /* Illustrated chibi stickers: enough room for the illustrated props. */
 @media(min-width:769px){.resume-mascot{width:148px;height:148px}.section-header:has(>.resume-mascot){min-height:150px}.mascot-heading{min-height:150px}.mascot-heading .resume-mascot{width:148px;height:148px}}
+
+/* Refined adult editorial figures need more vertical room. */
+@media(min-width:769px){.resume-mascot{width:168px;height:180px}.section-header:has(>.resume-mascot){min-height:180px}.mascot-heading{min-height:180px}.mascot-heading .resume-mascot{width:168px;height:180px}}
+@media(max-width:768px){.resume-mascot,.mascot-heading .resume-mascot{width:100px;height:124px}.section-header:has(>.resume-mascot),.mascot-heading{min-height:130px}}

@@ -2,3 +2,6 @@
 @media(max-width:768px){.resume-verbatim .tl-body{padding:18px}.resume-source-paragraph{font-size:13px;line-height:1.95}.resume-job-heading{font-size:16px;line-height:1.8}.section-header:has(>.resume-mascot){min-height:100px;gap:10px}.resume-mascot{width:90px;height:100px}.mascot-heading{min-height:100px;margin-top:24px}.mascot-heading .resume-mascot{width:90px;height:100px}.mascot-heading .subheading{flex-wrap:wrap;gap:8px}.wechat-dialog-content{padding:8px 20px 20px}.section-header:has(>.resume-mascot) .section-title{font-size:21px}.section-header:has(>.resume-mascot) .section-en{font-size:8px;letter-spacing:1px}}
 
 .resume-source-label{display:block;font-weight:600;color:var(--green);margin-bottom:6px}.resume-job-heading{white-space:normal}.wechat-dialog::backdrop{background:#03090de0;backdrop-filter:blur(10px)}
+
+/* Illustrated chibi stickers: enough room for the illustrated props. */
+@media(min-width:769px){.resume-mascot{width:148px;height:148px}.section-header:has(>.resume-mascot){min-height:150px}.mascot-heading{min-height:150px}.mascot-heading .resume-mascot{width:148px;height:148px}}

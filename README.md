@@ -22,3 +22,8 @@
 ## 部署
 
 GitHub Pages：main 分支 / 根目录。无需安装依赖或构建。请勿将原站 Supabase 地址和配置迁入此项目。若未来需要在线后台管理，再建立独立数据库与权限。
+
+## 2026-11-16 更新
+
+工作经历已按原 DOCX 完整恢复，原文记录见 data/resume-experience-source.json。新增微信二维码弹窗与保存功能；新增四组个人职场 IP，素材与提示词设定见 assets/ip/README.md。
+

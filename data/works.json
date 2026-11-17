@@ -145,43 +145,84 @@
     "items": [
       {
         "id": "cj2025",
-        "title": "2025 ChinaJoy「玩转每一种热爱」",
-        "tag": "ChinaJoy",
-        "url": "https://www.pconline.com.cn/qs/pc/online/10676/"
+        "title": "2025ChinaJoy「玩转每一种热爱」",
+        "tag": "展会统筹｜明星战队展台｜20+品牌联动",
+        "url": "https://www.pconline.com.cn/qs/pc/online/10676/",
+        "cover": "covers/cj2025.jpg",
+        "metrics": [
+          [
+            "1.4亿",
+            "全网总曝光"
+          ],
+          [
+            "2665万",
+            "KOL内容曝光"
+          ],
+          [
+            "126条",
+            "原创内容稿件"
+          ]
+        ]
       },
       {
         "id": "gdw2025",
-        "title": "2025 广州设计周「当科技遇见设计」",
-        "tag": "广州设计周",
+        "title": "2025广州设计周「当科技遇见设计」",
+        "tag": "展会统筹｜智臻科技奖｜跨界联动",
         "pc": "https://www.pchouse.com.cn/zhuanti/gdw/",
-        "wap": "https://m.pchouse.com.cn/x/zhuanti/gdw/"
+        "wap": "https://m.pchouse.com.cn/x/zhuanti/gdw/",
+        "cover": "covers/gdw2025-kv.jpg",
+        "coverSource": "https://www1.pchouse.com.cn/zt/2025gzsjz/500-500.jpg",
+        "metrics": [
+          [
+            "5964w+",
+            "全网总曝光"
+          ],
+          [
+            "512.4w+",
+            "微博阅读量"
+          ],
+          [
+            "510条",
+            "原创内容上线"
+          ]
+        ]
       },
       {
         "id": "bw2025",
-        "title": "2025 BiliBiliWorld「次元新航线」",
-        "tag": "BiliBiliWorld",
-        "url": "",
+        "title": "2025bilibiliworld「次元新航线」",
+        "tag": "展会统筹｜现场直击｜二次元动漫",
+        "url": "https://www.pconline.com.cn/synthetical/pc/subject/5864/",
         "sourceUrl": "https://www.pconline.com.cn/synthetical/pc/subject/5864/",
-        "linkPending": true,
-        "cover": "covers/bw2025.svg"
+        "cover": "covers/bw-kv.jpg",
+        "coverSource": "https://img4.pconline.com.cn/pconline/images/pcncc/20260708/52797047.jpg",
+        "description": "次元赴夏，热爱登场！BilibiliWorld 2026如约启幕，汇聚动漫、游戏、创作潮流，太平洋科技直击Z世代文化现场......"
       },
       {
         "id": "cj2026",
         "title": "2026 ChinaJoy「智游新生 潮启今夏」",
-        "tag": "ChinaJoy",
-        "url": "https://www.pconline.com.cn/qs/pc/online/11076/"
+        "tag": "展会统筹｜现场直击｜二次元动漫",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11076/",
+        "cover": "covers/cj2026-kv.png",
+        "coverSource": "https://img4.pconline.com.cn/pconline/images/best/20260728/53664788.png",
+        "description": "跟随AI探索2026chinajoy数字娱乐新世界"
       },
       {
         "id": "wrc2026",
-        "title": "2026 WRC 世界机器人大会",
-        "tag": "机器人 × 科技",
-        "url": "https://www.pconline.com.cn/qs/pc/online/11097/"
+        "title": "2026WRC「世界机器人大会」",
+        "tag": "展会统筹｜现场直击｜机器人",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11097/",
+        "cover": "covers/wrc2026-kv.jpg",
+        "coverSource": "https://img4.pconline.com.cn/pconline/images/best/20260821/54837075.jpg",
+        "description": "人机共生，未来已至，多维揭秘WRC2026世界机器人大会"
       },
       {
         "id": "warc2026",
-        "title": "2026 WARC 世界人工智能大会",
-        "tag": "人工智能",
-        "url": "https://www.pconline.com.cn/qs/pc/online/11056/"
+        "title": "2026WARC「世界人工智能大会」",
+        "tag": "展会统筹｜现场直击｜人工智能",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11056/",
+        "cover": "covers/warc2026-kv.png",
+        "coverSource": "https://img4.pconline.com.cn/pconline/images/best/20260714/53045165.png",
+        "description": "智竞未来，全景直击2026WAIC世界人工智能大会"
       },
       {
         "id": "gdw2026",

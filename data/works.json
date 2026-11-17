@@ -23,42 +23,116 @@
       {
         "id": "zotac",
         "title": "索泰「无索不AI」桌搭大赛",
-        "tag": "AIGC × 桌搭文化",
+        "tag": "AIGC｜梦中情桌｜索泰RTX50显卡",
         "pc": "https://www1.pconline.com.cn/zt/gz20251127/activity/zotac/pc/index.html#/",
-        "wap": "https://www1.pconline.com.cn/zt/gz20251127/activity/zotac/wap/index.html#"
+        "wap": "https://www1.pconline.com.cn/zt/gz20251127/activity/zotac/wap/index.html#",
+        "metrics": [
+          [
+            "5000+万",
+            "项目总曝光"
+          ],
+          [
+            "2000+份",
+            "优质作品征集"
+          ],
+          [
+            "20+篇",
+            "原创活动资讯"
+          ]
+        ]
       },
       {
         "id": "huntkey",
         "title": "航嘉「满电青年」AI设计大赛",
-        "tag": "AI 创作赛事",
+        "tag": "AIGC｜充电神器｜航嘉充电产品线",
         "pc": "https://www1.pconline.com.cn/zt/gz20260420/activity/huntkey/pc/index.html#/",
-        "wap": "https://www1.pconline.com.cn/zt/gz20260420/activity/huntkey/wap/index.html#/"
+        "wap": "https://www1.pconline.com.cn/zt/gz20260420/activity/huntkey/wap/index.html#/",
+        "metrics": [
+          [
+            "7000+万",
+            "项目总曝光"
+          ],
+          [
+            "500+份",
+            "优质作品征集"
+          ],
+          [
+            "20+篇",
+            "原创活动资讯"
+          ]
+        ]
       },
       {
         "id": "kioxia",
         "title": "铠侠「芯动记忆」AI存储挑战赛",
-        "tag": "创意共创",
+        "tag": "AIGC｜记忆速度｜铠侠存储产品线",
         "pc": "https://www1.pconline.com.cn/test/gz20260228/activity/kaixia/pc/?v=534815#/",
-        "wap": "https://www1.pconline.com.cn/test/gz20260228/activity/kaixia/wap/?v=534815#/"
+        "wap": "https://www1.pconline.com.cn/test/gz20260228/activity/kaixia/wap/?v=534815#/",
+        "metrics": [
+          [
+            "7000+万",
+            "项目总曝光"
+          ],
+          [
+            "300+份",
+            "优质作品征集"
+          ],
+          [
+            "15+人",
+            "浪花体验官众测"
+          ]
+        ]
       },
       {
         "id": "dareu",
         "title": "达尔优无畏契约电竞赛",
-        "tag": "高校电竞",
+        "tag": "高校赛事｜无畏契约｜达尔优外设",
         "pc": "https://www1.pconline.com.cn/gz/202504/dareu/pc/index.html#/",
-        "wap": "https://www1.pconline.com.cn/gz/202504/dareu/wap/index.html#/"
+        "wap": "https://www1.pconline.com.cn/gz/202504/dareu/wap/index.html#/",
+        "metrics": [
+          [
+            "7+亿",
+            "项目总曝光"
+          ],
+          [
+            "200+支",
+            "高校参赛队伍"
+          ],
+          [
+            "68所",
+            "赛事报名高校"
+          ]
+        ]
       },
       {
         "id": "thunderobot",
         "title": "雷神无畏契约巡回赛",
-        "tag": "赛事巡游",
-        "image": "assets/thunderobot.png"
+        "tag": "高校赛事｜无畏契约｜雷神杯",
+        "image": "assets/thunderobot.png",
+        "metrics": [],
+        "metricsPending": true
       },
       {
         "id": "school",
-        "title": "开学季开机大吉企划",
-        "tag": "校园营销",
-        "url": "https://www.pconline.com.cn/qs/pc/online/11096/"
+        "title": "Pconline「开机大吉」开学季营销企划",
+        "tag": "校园营销｜Pconline｜开学新生季",
+        "url": "https://www.pconline.com.cn/qs/pc/online/11096/",
+        "cover": "covers/school-kv.jpg",
+        "coverSource": "https://img4.pconline.com.cn/pconline/images/best/20260831/55478676.jpg",
+        "metrics": [
+          [
+            "3500+w",
+            "微博话题阅读量"
+          ],
+          [
+            "30+",
+            "合作推荐品类"
+          ],
+          [
+            "30+",
+            "原创内容稿件"
+          ]
+        ]
       }
     ]
   },
